@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1791371369 source:c:\users\admin\desktop\f.g4tp\czas\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<stack>
+	<algorithm>
+	<random>
+	<chrono>
+
